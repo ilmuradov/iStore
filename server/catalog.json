@@ -1,0 +1,51 @@
+[
+    {
+        "id": "el1",
+        "name": "iPhone SE black",
+        "img": "https://i.ibb.co/tLCcRMG/iphone-se-black.png",
+        "price": 14000,
+        "storage": 64
+    },
+    {
+        "id": "el2",
+        "name": "iPhone 11 black",
+        "img": "https://i.ibb.co/mCt1Gy6/iphone11-black.png",
+        "price": 14500,
+        "storage": 128
+    },
+    {
+        "id": "el3",
+        "name": "iPhone 12 blue",
+        "img": "https://i.ibb.co/vXTRQcb/iphone12-blue.png",
+        "price": 18600,
+        "storage": 256
+    },
+    {
+        "id": "el4",
+        "name": "iPhone 12 green",
+        "img": "https://i.ibb.co/YTJNbZq/iphone12-green.png",
+        "price": 18700,
+        "storage": 256
+    },
+    {
+        "id": "el5",
+        "name": "iPhone 12 black",
+        "img": "https://i.ibb.co/qDx9DRd/iphone12-black.png",
+        "price": 19400,
+        "storage": 256
+    },
+    {
+        "id": "el6",
+        "name": "iPhone 12 mini white",
+        "img": "https://i.ibb.co/FVcZhx1/iphone12-mini-white.png",
+        "price": 16400,
+        "storage": 128
+    },
+    {
+        "id": "el7",
+        "name": "iPhone 13 midnight",
+        "img": "https://i.ibb.co/4KKqTz9/iphone13-midnight.png",
+        "price": 18300,
+        "storage": 128
+    }
+]
